@@ -11,4 +11,4 @@ Transferring Representation to ‘Top View’ based on deep metric learning
 **Visualization of 'top view' by applying PCA on transferred embeddings.**
 
 Download data and trained model from [data](https://drive.google.com/file/d/1Io3nNM2kjJ08GSC2vqLqL2XezvFBlsKo/view?usp=sharing)
-and [trained model](https://drive.google.com/file/d/1RgKUQt55CChsN0lX2JTxMdWBpz5qZ7If/view?usp=sharing), put them in ../box2vect/data and ../box2vect/model directory respectively
+and [trained model](https://drive.google.com/file/d/1RgKUQt55CChsN0lX2JTxMdWBpz5qZ7If/view?usp=sharing), put them in ../box2vec/data and ../box2vec/model directory respectively
