@@ -9,7 +9,9 @@ Transferring Representation to ‘Top View’ based on deep metric learning
  
 
 **Visualization of 'top view' by applying PCA on learned embeddings.**
-[demo video](https://www.youtube.com/watch?v=sroLfpX4F0w)
+
+[demo video on EPFL dataset](https://www.youtube.com/watch?v=sroLfpX4F0w)
+
 For inference demo:
 
 Download test videos "4 people indoor sequence"(4p-c0.avi, 4p-c1.avi, 4p-c2.avi, 4p-c3.avi) from [“EPFL” data set: Multi-camera Pedestrian Videos
