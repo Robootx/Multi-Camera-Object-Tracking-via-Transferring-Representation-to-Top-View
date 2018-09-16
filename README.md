@@ -8,7 +8,7 @@ Transferring Representation to ‘Top View’ based on deep metric learning
 ![image](pca_visualize/5_4.png?raw=true "Optional Title") 
  
 
-**Visualization of 'top view' by applying PCA on transferred embeddings.**
+**Visualization of 'top view' by applying PCA on learned embeddings.**
 
 For inference demo:
 
