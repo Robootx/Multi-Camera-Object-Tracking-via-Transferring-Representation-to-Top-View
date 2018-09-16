@@ -11,6 +11,7 @@ Transferring Representation to ‘Top View’ based on deep metric learning
 **Visualization of 'top view' by applying PCA on transferred embeddings.**
 
 For inference demo:
+
 Download test videos "4 people indoor sequence"(4p-c0.avi, 4p-c1.avi, 4p-c2.avi, 4p-c3.avi) from [“EPFL” data set: Multi-camera Pedestrian Videos
 ](https://cvlab.epfl.ch/data/data-pom-index-php/) and detection file (4p-c0.pickle, 4p-c1.pickle, 4p-c2.pickle,4p-c3.pickle) from [detection file for demo](https://drive.google.com/file/d/12MWB_CMOdDwfeG_ZxcwCYxI6sr_4vDKQ/view?usp=sharing). The detection file contain detection result from detector, so that you can run without detector. Create directory ../data/train/lab, put videos and pickle files in it.
 run
