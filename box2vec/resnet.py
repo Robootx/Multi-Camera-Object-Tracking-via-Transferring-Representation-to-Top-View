@@ -500,6 +500,8 @@ class Resnet(object):
             # provides a large performance boost on GPU.
             
             inputs = tf.transpose(self.image, [0, 3, 1, 2]) # image_batch: [N, C, H, W]
+        else:
+            inputs = tf.identity(self.image)
         
         with tf.variable_scope('resnet',reuse=self.reuse_resnet):
             self.reuse_resnet = True
